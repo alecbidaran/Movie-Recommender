@@ -1,3 +1,3 @@
 # Movie-Recommender
-Recommending movies with unsupervised learning approach. Just type your seen movie, then get 5 recommended movies.
-Use Ngrok and flask-ngrok and flask frameworks to convert your colab notebook to api.
+This repository contains a movie recommender system designed using the K-means algorithm and integrated with API using Flask and Python.
+A simple cross-platform app designed with KivyMD and Python to connect to the flask app. 
